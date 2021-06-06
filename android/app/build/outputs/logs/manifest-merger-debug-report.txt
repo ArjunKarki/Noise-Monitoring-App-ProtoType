@@ -1,0 +1,168 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/arjun/Documents/MarterProjects/NoiseMonitoringApp/Noise Monitor/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /home/arjun/Documents/MarterProjects/NoiseMonitoringApp/Noise Monitor/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /home/arjun/Documents/MarterProjects/NoiseMonitoringApp/Noise Monitor/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /home/arjun/Documents/MarterProjects/NoiseMonitoringApp/Noise Monitor/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from [:react-native-gesture-handler] /home/arjun/Documents/MarterProjects/NoiseMonitoringApp/Noise Monitor/node_modules/react-native-gesture-handler/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-vector-icons] /home/arjun/Documents/MarterProjects/NoiseMonitoringApp/Noise Monitor/node_modules/react-native-vector-icons/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-svg] /home/arjun/Documents/MarterProjects/NoiseMonitoringApp/Noise Monitor/node_modules/react-native-svg/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-cardview] /home/arjun/Documents/MarterProjects/NoiseMonitoringApp/Noise Monitor/node_modules/react-native-cardview/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.57.8] /home/arjun/.gradle/caches/transforms-1/files-1.1/react-native-0.57.8.aar/b4fc9a94e894a24e7bcf59f8e35270fe/AndroidManifest.xml:2:1-15:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/arjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/8f557f8cd7a9bc874e2c07057a4fb991/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.1.1] /home/arjun/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.1.aar/edef976a7746899ba01fa3a3ab7a742b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /home/arjun/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/deace7dc07f8a69f39ffb20183751553/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/arjun/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/bfb484c384eef6dff02dc6af46bc576d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/arjun/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/7feebbb56c7d24eb7965209ade0b7c6f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/arjun/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/43cb53277fe281e05d572d1fb5491621/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/arjun/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/e3a25ccf061b35293a58c7da0afaf0b6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /home/arjun/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/875380e2d0601f9bce973fb871744927/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:1.10.0] /home/arjun/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/8fef48db7cedcffc70d2eb411db38abe/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /home/arjun/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/cd7d10ec1951a38bce0f523f756bf73b/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:1.10.0] /home/arjun/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/ce3fe970ab34880decabb8aa20faf0d4/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /home/arjun/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/ad348c311fc55dfee622fb28c38c711c/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /home/arjun/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/79c7a3e20209035a9ec21d8b04f3ae10/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.5.1] /home/arjun/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/464dfa08fcd6f0b5ec8ee357be7a486e/AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r174650] /home/arjun/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/3c858ef1803bf3f0ad00922731f3e2f3/AndroidManifest.xml:1:1-3:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/arjun/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/18c85cd437811699de872bb19b6f11a0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/arjun/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/80050d0fd7903fcf54580f903104ab6f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /home/arjun/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/6ece965b86658102eaa60f2f08049972/AndroidManifest.xml:2:1-9:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/arjun/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/12687f8a2847851a98de7dd61385dd4b/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /home/arjun/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/7ba6706fc0c0d3921258c18149e24ad0/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/arjun/Documents/MarterProjects/NoiseMonitoringApp/Noise Monitor/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /home/arjun/Documents/MarterProjects/NoiseMonitoringApp/Noise Monitor/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /home/arjun/Documents/MarterProjects/NoiseMonitoringApp/Noise Monitor/android/app/src/main/AndroidManifest.xml:1:1-26:12
+	package
+		ADDED from /home/arjun/Documents/MarterProjects/NoiseMonitoringApp/Noise Monitor/android/app/src/main/AndroidManifest.xml:2:5-34
+		INJECTED from /home/arjun/Documents/MarterProjects/NoiseMonitoringApp/Noise Monitor/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/arjun/Documents/MarterProjects/NoiseMonitoringApp/Noise Monitor/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/arjun/Documents/MarterProjects/NoiseMonitoringApp/Noise Monitor/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/arjun/Documents/MarterProjects/NoiseMonitoringApp/Noise Monitor/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /home/arjun/Documents/MarterProjects/NoiseMonitoringApp/Noise Monitor/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/arjun/Documents/MarterProjects/NoiseMonitoringApp/Noise Monitor/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/arjun/Documents/MarterProjects/NoiseMonitoringApp/Noise Monitor/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /home/arjun/Documents/MarterProjects/NoiseMonitoringApp/Noise Monitor/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/arjun/Documents/MarterProjects/NoiseMonitoringApp/Noise Monitor/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/arjun/Documents/MarterProjects/NoiseMonitoringApp/Noise Monitor/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /home/arjun/Documents/MarterProjects/NoiseMonitoringApp/Noise Monitor/android/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /home/arjun/Documents/MarterProjects/NoiseMonitoringApp/Noise Monitor/android/app/src/main/AndroidManifest.xml:5:5-77
+MERGED from [com.facebook.react:react-native:0.57.8] /home/arjun/.gradle/caches/transforms-1/files-1.1/react-native-0.57.8.aar/b4fc9a94e894a24e7bcf59f8e35270fe/AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.57.8] /home/arjun/.gradle/caches/transforms-1/files-1.1/react-native-0.57.8.aar/b4fc9a94e894a24e7bcf59f8e35270fe/AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from /home/arjun/Documents/MarterProjects/NoiseMonitoringApp/Noise Monitor/android/app/src/main/AndroidManifest.xml:5:22-75
+application
+ADDED from /home/arjun/Documents/MarterProjects/NoiseMonitoringApp/Noise Monitor/android/app/src/main/AndroidManifest.xml:7:5-24:19
+MERGED from [com.facebook.react:react-native:0.57.8] /home/arjun/.gradle/caches/transforms-1/files-1.1/react-native-0.57.8.aar/b4fc9a94e894a24e7bcf59f8e35270fe/AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.react:react-native:0.57.8] /home/arjun/.gradle/caches/transforms-1/files-1.1/react-native-0.57.8.aar/b4fc9a94e894a24e7bcf59f8e35270fe/AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.soloader:soloader:0.5.1] /home/arjun/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/464dfa08fcd6f0b5ec8ee357be7a486e/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.5.1] /home/arjun/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/464dfa08fcd6f0b5ec8ee357be7a486e/AndroidManifest.xml:11:5-20
+MERGED from [org.webkit:android-jsc:r174650] /home/arjun/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/3c858ef1803bf3f0ad00922731f3e2f3/AndroidManifest.xml:2:3-17
+MERGED from [org.webkit:android-jsc:r174650] /home/arjun/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/3c858ef1803bf3f0ad00922731f3e2f3/AndroidManifest.xml:2:3-17
+	android:label
+		ADDED from /home/arjun/Documents/MarterProjects/NoiseMonitoringApp/Noise Monitor/android/app/src/main/AndroidManifest.xml:9:7-39
+	android:icon
+		ADDED from /home/arjun/Documents/MarterProjects/NoiseMonitoringApp/Noise Monitor/android/app/src/main/AndroidManifest.xml:10:7-41
+	android:allowBackup
+		ADDED from /home/arjun/Documents/MarterProjects/NoiseMonitoringApp/Noise Monitor/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from /home/arjun/Documents/MarterProjects/NoiseMonitoringApp/Noise Monitor/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:name
+		ADDED from /home/arjun/Documents/MarterProjects/NoiseMonitoringApp/Noise Monitor/android/app/src/main/AndroidManifest.xml:8:7-38
+activity#com.noisemonitoring.MainActivity
+ADDED from /home/arjun/Documents/MarterProjects/NoiseMonitoringApp/Noise Monitor/android/app/src/main/AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from /home/arjun/Documents/MarterProjects/NoiseMonitoringApp/Noise Monitor/android/app/src/main/AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from /home/arjun/Documents/MarterProjects/NoiseMonitoringApp/Noise Monitor/android/app/src/main/AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from /home/arjun/Documents/MarterProjects/NoiseMonitoringApp/Noise Monitor/android/app/src/main/AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from /home/arjun/Documents/MarterProjects/NoiseMonitoringApp/Noise Monitor/android/app/src/main/AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/arjun/Documents/MarterProjects/NoiseMonitoringApp/Noise Monitor/android/app/src/main/AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from /home/arjun/Documents/MarterProjects/NoiseMonitoringApp/Noise Monitor/android/app/src/main/AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from /home/arjun/Documents/MarterProjects/NoiseMonitoringApp/Noise Monitor/android/app/src/main/AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /home/arjun/Documents/MarterProjects/NoiseMonitoringApp/Noise Monitor/android/app/src/main/AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from /home/arjun/Documents/MarterProjects/NoiseMonitoringApp/Noise Monitor/android/app/src/main/AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /home/arjun/Documents/MarterProjects/NoiseMonitoringApp/Noise Monitor/android/app/src/main/AndroidManifest.xml:23:7-84
+	android:name
+		ADDED from /home/arjun/Documents/MarterProjects/NoiseMonitoringApp/Noise Monitor/android/app/src/main/AndroidManifest.xml:23:17-81
+uses-sdk
+INJECTED from /home/arjun/Documents/MarterProjects/NoiseMonitoringApp/Noise Monitor/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/arjun/Documents/MarterProjects/NoiseMonitoringApp/Noise Monitor/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/arjun/Documents/MarterProjects/NoiseMonitoringApp/Noise Monitor/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-gesture-handler] /home/arjun/Documents/MarterProjects/NoiseMonitoringApp/Noise Monitor/node_modules/react-native-gesture-handler/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /home/arjun/Documents/MarterProjects/NoiseMonitoringApp/Noise Monitor/node_modules/react-native-gesture-handler/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /home/arjun/Documents/MarterProjects/NoiseMonitoringApp/Noise Monitor/node_modules/react-native-vector-icons/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /home/arjun/Documents/MarterProjects/NoiseMonitoringApp/Noise Monitor/node_modules/react-native-vector-icons/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-svg] /home/arjun/Documents/MarterProjects/NoiseMonitoringApp/Noise Monitor/node_modules/react-native-svg/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-svg] /home/arjun/Documents/MarterProjects/NoiseMonitoringApp/Noise Monitor/node_modules/react-native-svg/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-cardview] /home/arjun/Documents/MarterProjects/NoiseMonitoringApp/Noise Monitor/node_modules/react-native-cardview/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-cardview] /home/arjun/Documents/MarterProjects/NoiseMonitoringApp/Noise Monitor/node_modules/react-native-cardview/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.57.8] /home/arjun/.gradle/caches/transforms-1/files-1.1/react-native-0.57.8.aar/b4fc9a94e894a24e7bcf59f8e35270fe/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.57.8] /home/arjun/.gradle/caches/transforms-1/files-1.1/react-native-0.57.8.aar/b4fc9a94e894a24e7bcf59f8e35270fe/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/arjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/8f557f8cd7a9bc874e2c07057a4fb991/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/arjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/8f557f8cd7a9bc874e2c07057a4fb991/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] /home/arjun/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.1.aar/edef976a7746899ba01fa3a3ab7a742b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] /home/arjun/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.1.aar/edef976a7746899ba01fa3a3ab7a742b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /home/arjun/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/deace7dc07f8a69f39ffb20183751553/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /home/arjun/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/deace7dc07f8a69f39ffb20183751553/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/arjun/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/bfb484c384eef6dff02dc6af46bc576d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/arjun/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/bfb484c384eef6dff02dc6af46bc576d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/arjun/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/7feebbb56c7d24eb7965209ade0b7c6f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/arjun/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/7feebbb56c7d24eb7965209ade0b7c6f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/arjun/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/43cb53277fe281e05d572d1fb5491621/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/arjun/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/43cb53277fe281e05d572d1fb5491621/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/arjun/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/e3a25ccf061b35293a58c7da0afaf0b6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/arjun/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/e3a25ccf061b35293a58c7da0afaf0b6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/arjun/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/875380e2d0601f9bce973fb871744927/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/arjun/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/875380e2d0601f9bce973fb871744927/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:1.10.0] /home/arjun/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/8fef48db7cedcffc70d2eb411db38abe/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.10.0] /home/arjun/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/8fef48db7cedcffc70d2eb411db38abe/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /home/arjun/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/cd7d10ec1951a38bce0f523f756bf73b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /home/arjun/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/cd7d10ec1951a38bce0f523f756bf73b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /home/arjun/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/ce3fe970ab34880decabb8aa20faf0d4/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /home/arjun/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/ce3fe970ab34880decabb8aa20faf0d4/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /home/arjun/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/ad348c311fc55dfee622fb28c38c711c/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /home/arjun/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/ad348c311fc55dfee622fb28c38c711c/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /home/arjun/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/79c7a3e20209035a9ec21d8b04f3ae10/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /home/arjun/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/79c7a3e20209035a9ec21d8b04f3ae10/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.5.1] /home/arjun/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/464dfa08fcd6f0b5ec8ee357be7a486e/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.5.1] /home/arjun/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/464dfa08fcd6f0b5ec8ee357be7a486e/AndroidManifest.xml:7:5-9:41
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/arjun/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/18c85cd437811699de872bb19b6f11a0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/arjun/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/18c85cd437811699de872bb19b6f11a0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/arjun/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/80050d0fd7903fcf54580f903104ab6f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/arjun/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/80050d0fd7903fcf54580f903104ab6f/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /home/arjun/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/6ece965b86658102eaa60f2f08049972/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /home/arjun/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/6ece965b86658102eaa60f2f08049972/AndroidManifest.xml:5:5-7:41
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/arjun/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/12687f8a2847851a98de7dd61385dd4b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/arjun/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/12687f8a2847851a98de7dd61385dd4b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/arjun/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/7ba6706fc0c0d3921258c18149e24ad0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/arjun/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/7ba6706fc0c0d3921258c18149e24ad0/AndroidManifest.xml:20:5-44
+INJECTED from /home/arjun/Documents/MarterProjects/NoiseMonitoringApp/Noise Monitor/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/arjun/Documents/MarterProjects/NoiseMonitoringApp/Noise Monitor/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/arjun/Documents/MarterProjects/NoiseMonitoringApp/Noise Monitor/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/arjun/Documents/MarterProjects/NoiseMonitoringApp/Noise Monitor/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/arjun/Documents/MarterProjects/NoiseMonitoringApp/Noise Monitor/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/arjun/Documents/MarterProjects/NoiseMonitoringApp/Noise Monitor/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/arjun/Documents/MarterProjects/NoiseMonitoringApp/Noise Monitor/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/arjun/Documents/MarterProjects/NoiseMonitoringApp/Noise Monitor/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from /home/arjun/Documents/MarterProjects/NoiseMonitoringApp/Noise Monitor/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /home/arjun/Documents/MarterProjects/NoiseMonitoringApp/Noise Monitor/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /home/arjun/Documents/MarterProjects/NoiseMonitoringApp/Noise Monitor/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE

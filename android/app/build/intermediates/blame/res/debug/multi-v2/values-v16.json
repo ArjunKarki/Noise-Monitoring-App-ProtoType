@@ -1,0 +1,38 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/arjun/Documents/MarterProjects/NoiseMonitoringApp/Noise Monitor/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "/home/arjun/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/875380e2d0601f9bce973fb871744927/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                },
+                {
+                    "source": "/home/arjun/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/8f557f8cd7a9bc874e2c07057a4fb991/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "121",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "289"
+                    }
+                }
+            ]
+        }
+    ]
+}

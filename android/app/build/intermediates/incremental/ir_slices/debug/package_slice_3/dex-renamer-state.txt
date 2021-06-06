@@ -1,0 +1,4 @@
+#Fri Feb 01 14:48:09 MMT 2019
+base.0=/home/arjun/Documents/MarterProjects/NoiseMonitoringApp/Noise Monitor/android/app/build/intermediates/transforms/dexMerger/debug/4
+path.0=classes.dex
+renamed.0=classes.dex
